@@ -10,4 +10,4 @@ A small amount of additional functionality was added, specifically in the Tools.
 Documentation will be coming in the future, but, for now, the Python documentation can be used as a reference, seen here: https://pydealer.readthedocs.io/en/latest/code.html
 
 This library uses identical names (where possible) as Pydealer but with C# naming conventions, so PascalCase for methods and camelCase for variables (no underscores between words like in the PyDealer documentation).
-Uses the C# names of built in functions (e.g. C#'s Stack.remove(index) instead of del Stack[index]).
+Uses the C# names of built in functions (e.g. C#'s Stack.Remove(index) instead of del Stack[index]).
